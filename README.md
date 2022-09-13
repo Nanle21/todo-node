@@ -89,10 +89,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Nest.js][Nest.url]][Nestjs]
-* [![TypeScript][TypeScript]][TrypeScript]
-* [![Nodejs][Nodejs]][Nodejs]
-* [![TypeOrm][TypeOrm]][TypeOrm]
+* [![Nest][Nest.js]][Nest-url]
+<!-- * [![TypeScript][TypeScript]][TrypeScript]
+* [![Nodejs][Nodejs]][Nodejs] -->
+* [![TypeOrm][typeorm.io]][typeorm.io-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,3 +245,5 @@ Project Link: [https://github.com/Nanle21/todo-node.git](https://github.com/Nanl
 [product-screenshot]: images/screenshot.png
 [Nest-url]: https://nestjs.com/
 [Nest.js]:https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg
+[typeorm.io-url]: https://typeorm.io/
+[typeorm.io]:https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png
